@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chamada</string>
+    <string name="telefone">Telefone:</string>
+    <string name="telefonar">Telefonar</string>
+    <string name="limpar">Limpar</string>
+</resources>
